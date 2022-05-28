@@ -1,4 +1,13 @@
-### Hi there 👋
+Hola mi nombre es Maria de los Angeles Martinez Trejo
+Actualemente estudio la secundaria y un curso de fundamentos basicos
+Les contare un poco sobre mi 
+MI actor favorit es Robert Downey jr
+Mi pelicula favorita es Iron Man 
+Mi cantante favorito es Eduardo Davalos (Babo)
+Mis colores favorito son el azul y negro
+Mi comida favorita son ls hamburguesas 
+Mi musica favorita es el rock,hip hop,reggaeton
+En mi tiempo libre me gusta jugar videojuegos ver peliculas y escuchar musica
 
 <!--
 **Martinez-Ang/MARTINEZ-ANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
