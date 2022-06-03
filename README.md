@@ -2,7 +2,6 @@ Hola mi nombre es Maria de los Angeles Martinez Trejo
 Actualmente estudio la secundaria y estoy en un curso de fundamentos basicos
 
 MI actor favorito es Robert Downey jr
-Mi pelicula favorita es Iron Man
 Mi cantante favorito es Eduardo Davalos (Babo)
 Mis colores favorito son el azul y negro
 
